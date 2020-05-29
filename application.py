@@ -16,6 +16,10 @@ from fuzzywuzzy import fuzz
 from Levenshtein import *
 from warnings import warn
 
+from fastapi import FastAPI
+from utils import clear_terminal
+
+
 # load and validate the data
 data_path = '/Users/jorge/CS-Data-Science-Build-Week-1/data'
 movies_path = '/Users/jorge/CS-Data-Science-Build-Week-1//data/movies.csv'
@@ -158,11 +162,37 @@ def recommendation(model_knn, data, mapper, favorite_movie, n_recommendations):
         print('{0}: {1}, with distance of {2}'.format(i+1, reverse_mapper[index], dist))
 
 
-type_will_predict_favorite_films = 'The Godfather: Part II'
+def displayIntro():
+    print("  FILMLY helps you find movies you like. ")
+
+
+#
+# Main
+#
+# Make a new player object that is currently in the 'outside' room.
+# Clears screen for opening logo for the game:
+clear_terminal()
+
+print("""
+
+███████╗██╗██╗░░░░░███╗░░░███╗██╗░░░░░██╗░░░██╗
+██╔════╝██║██║░░░░░████╗░████║██║░░░░░╚██╗░██╔╝
+█████╗░░██║██║░░░░░██╔████╔██║██║░░░░░░╚████╔╝░
+██╔══╝░░██║██║░░░░░██║╚██╔╝██║██║░░░░░░░╚██╔╝░░
+██║░░░░░██║███████╗██║░╚═╝░██║███████╗░░░██║░░░
+╚═╝░░░░░╚═╝╚══════╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░
+                                © MMXX JRGL.IM
+    """
+      )
+
+
+displayIntro()
+
+type_and_will_predict_favorite_films = input('  𝗦𝗘𝗔𝗥𝗖𝗛: \n')
 
 recommendation(
     model_knn=model_knn,
     data=movie_user_matrix_sparse,
-    favorite_movie=type_will_predict_favorite_films,
+    favorite_movie=type_and_will_predict_favorite_films,
     mapper=movie_title_mapper,
     n_recommendations=10)
