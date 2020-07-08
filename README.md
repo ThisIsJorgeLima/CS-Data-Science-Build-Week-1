@@ -280,5 +280,5 @@ That will be for another blog another day.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 20202 © <a href="http://thisisjorgelima.com" target="_blank">Jorge A. Lima</a>.
+- Copyright 2020 © <a href="http://thisisjorgelima.com" target="_blank">Jorge A. Lima</a>.
  
