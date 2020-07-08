@@ -1,6 +1,4 @@
 # How to predict movies with K-Nearest-Neighbors(KNN)
-
-> Subtitle or Short Description Goes Here
 > movies, K-Nearest-Neighbors,KNN, predict movies
 <!-- [![ThisIsJorgeLima](https://miro.medium.com/max/1024/1*dU4oVsAravaoBRaskvUA9A.jpeg)](https://www.thisisjorgelima.com/2020-05-29-How-to-predict-movies-withk-nearest-neighbors/) -->
 
