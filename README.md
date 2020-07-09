@@ -2,6 +2,39 @@
 > movies, K-Nearest-Neighbors,KNN, predict movies
 <!-- [![ThisIsJorgeLima](https://miro.medium.com/max/1024/1*dU4oVsAravaoBRaskvUA9A.jpeg)](https://www.thisisjorgelima.com/2020-05-29-How-to-predict-movies-withk-nearest-neighbors/) -->
 
+   [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                                             |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |       
+|                      [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFWFr4FmRbOig/profile-displayphoto-shrink_400_400/0?e=1599696000&v=beta&t=AJRQvn8R36ErlVPB4-cHmu6D_EtGCxZi1i6sy78hR-4" width = "200" />](https://github.com/)                       |                                   
+|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ThisIsJorgeLima)       | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jorgelima) |
+<br>
+
+### Language
+Python
+
+### Predictions
+K-Nearest-Neighbors(KNN)
+
+### Data Sources
+[MovieLens](https://grouplens.org/datasets/movielens/latest/)
+
+### Python Notebooks
+[Notebooks](https://github.com/ThisIsJorgeLima/CS-Data-Science-Build-Week-1/tree/master/notebooks)
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Setup](#setup)
+   * [Installation](#installation)
+   * [Import Statements](#import-statements)
+   * [Environment setup](#environment-setup)
+   * [Parameters](#parameters)
+   * [Parameters](#parameters)
+   * [License](#license)
+<!--te-->
+
 
 How many of you spend countless hours trying to find the right movie to watch? I second that! The premise of this build was to predict recommendations from user ratings that have rated 75 or great films. By inputting a film title into our application we used the k-nearest neighbors aka KNN algorithm that predicts an output of ten recommendations. I’ll do my best to break down the process and the thinking in layman terms as best I can.
 
