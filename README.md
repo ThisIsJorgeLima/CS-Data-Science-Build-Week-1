@@ -25,7 +25,7 @@ K-Nearest-Neighbors(KNN)
 ### Data Sources
 [MovieLens](https://grouplens.org/datasets/movielens/latest/)
 
-### Python Notebooks
+### Notebooks
 [Notebooks](https://github.com/ThisIsJorgeLima/CS-Data-Science-Build-Week-1/tree/master/notebooks)
 
 Table of contents
