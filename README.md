@@ -7,7 +7,7 @@ How many of you spend countless hours trying to find the right movie to watch? I
 <img src="https://miro.medium.com/max/1024/1*dU4oVsAravaoBRaskvUA9A.jpeg" alt="Movies" class="center">
 
 <br>
-   [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                                             |
+|                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |       
 |                      [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFWFr4FmRbOig/profile-displayphoto-shrink_400_400/0?e=1599696000&v=beta&t=AJRQvn8R36ErlVPB4-cHmu6D_EtGCxZi1i6sy78hR-4" width = "200" />](https://github.com/)                       |                                   
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ThisIsJorgeLima)       | 
