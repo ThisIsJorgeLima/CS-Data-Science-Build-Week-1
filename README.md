@@ -38,7 +38,6 @@ Table of contents
    * [Import Statements](#import-statements)
    * [Environment setup](#environment-setup)
    * [Parameters](#parameters)
-   * [Parameters](#parameters)
    * [License](#license)
 <!--te-->
 
