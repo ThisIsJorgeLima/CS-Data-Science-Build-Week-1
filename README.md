@@ -4,7 +4,7 @@
 How many of you spend countless hours trying to find the right movie to watch? I second that! The premise of this build was to predict recommendations from user ratings that have rated 75 or great films. By inputting a film title into our application we used the k-nearest neighbors aka KNN algorithm that predicts an output of ten recommendations. I’ll do my best to break down the process and the thinking in layman terms as best I can.
 <br>
 
-<img src="https://miro.medium.com/max/1024/1*dU4oVsAravaoBRaskvUA9A.jpeg" alt="Movies" class="center">
+<img src="https://miro.medium.com/max/1024/1*dU4oVsAravaoBRaskvUA9A.jpeg" width = "800"class="center">
 
 |                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |       
